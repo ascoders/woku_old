@@ -1,0 +1,14 @@
+woku.exe
+woku
+
+cache/
+log/
+static/
+conf/
+
+.gitconfig
+.git-credentials
+
+node_modules/
+
+*.memprof
